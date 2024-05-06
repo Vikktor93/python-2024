@@ -6,8 +6,13 @@ comentario multiliea"""
 
 #Este es un comentario de una sola linea
 
-#Impresión de Variable (Print Clásico)
+
+# Declaración de Variables
 name = "Victor"
+apellido = "Saldivia"
+edad = 30
+
+#Impresión de Variable (Print Clásico)
 print("Hola soy", name)
 
 #Impresión de Variable (Cadenas Literales - f-string)
@@ -18,5 +23,4 @@ print(f"Hola mi nombres es {nombre}")
 nombre2 = "Benjamin"
 print("Hola mi nombre es " + nombre2)
 
-edad = 30
 
