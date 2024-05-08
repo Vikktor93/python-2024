@@ -1,11 +1,10 @@
-#Guia Rápida Python - 05 de Mayo de 2024
-#Docente: Victor Saldivia Vera - ICINF ULagos
-
-"""Este es un 
-comentario multiliea"""
+"""Guia Rápida Python - 05 de Mayo de 2024
+Docente: Victor Saldivia Vera - ICINF ULagos"""
 
 #Este es un comentario de una sola linea
 
+"""Este es un 
+comentario multiliea"""
 
 # 1. Declaración de Variables
 name = "Victor"
